@@ -1,0 +1,5 @@
+# Ignore Kaggle cache & dataset files
+.cache/
+kaggle.json
+*.csv
+!data/.gitkeep
