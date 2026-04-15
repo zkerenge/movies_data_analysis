@@ -1,5 +1,1 @@
-# Ignore Kaggle cache & dataset files
-.cache/
-kaggle.json
-*.csv
-!data/.gitkeep
+Nothing needs to be added to the .gitignore file since only a README.md file was modified and no build artifacts, dependencies, or temporary files were detected in the changes.
