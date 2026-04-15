@@ -182,6 +182,6 @@ This project is open source. The dataset is subject to its own license terms (Op
 
 ---
 
-**Author**: Data Analytics Project  
+**Author**: Zacharia Kerenge  
 **Created**: 2024  
 **Last Updated**: 2024
